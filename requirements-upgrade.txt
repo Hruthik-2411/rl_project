@@ -1,0 +1,1 @@
+numpy\ngymnasium\nstable-baselines3\nstreamlit\npandas\n
